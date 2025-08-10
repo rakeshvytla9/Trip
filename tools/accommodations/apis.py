@@ -5,7 +5,7 @@ from typing import Optional
 
 
 class Accommodations:
-    def __init__(self, path='/home/mtech/ATP_database/accommodation/cleaned_listings_final_v2.csv'):
+    def __init__(self, path='../ATP_database/accommodation/cleaned_listings_final_v2.csv'):
         self.path = path
         self.data = pd.read_csv(self.path).dropna()[['name','pricing','roomType', 'house_rules', 'max_occupancy', 'rating', 'City']]
         print("Accommodations loaded.")

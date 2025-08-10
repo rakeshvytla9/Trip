@@ -5,7 +5,7 @@ from typing import Optional
 from datetime import datetime
 
 class Events:
-    def __init__(self, path='/home/mtech/ATP_database/events/events_cleaned.csv'):
+    def __init__(self, path='../ATP_database/events/events_cleaned.csv'):
         self.path = path
         # Read CSV and preprocess dates
         self.data = pd.read_csv(self.path)[['name', 'url', 'dateTitle', 'streetAddress', 'segmentName', 'city']].dropna(

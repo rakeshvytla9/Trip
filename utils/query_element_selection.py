@@ -12,7 +12,7 @@ import numpy as np
 
 google_distance = GoogleDistanceMatrix()
 
-city_set = open('/home/soumya/ATP_database/background/citySet_with_states_140.txt').read().strip().split('\n')
+city_set = open('../ATP_database/background/citySet_with_states_140.txt').read().strip().split('\n')
 
 state_city_map = {}
 

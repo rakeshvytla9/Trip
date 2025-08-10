@@ -5,7 +5,7 @@ from typing import Optional
 
 class Flights:
 
-    def __init__(self, path='/home/mtech/ATP_database/flights/cleaned_flights_november_2024.csv'):
+    def __init__(self, path='../ATP_database/flights/cleaned_flights_november_2024.csv'):
         self.path = path
         self.data = None
 

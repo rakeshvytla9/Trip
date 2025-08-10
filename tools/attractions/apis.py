@@ -5,7 +5,7 @@ from typing import Optional
 
 
 class Attractions:
-    def __init__(self, path='/home/mtech/ATP_database/attraction/cleaned_attractions_final.csv'):
+    def __init__(self, path='../ATP_database/attraction/cleaned_attractions_final.csv'):
         self.path = path
         self.data = pd.read_csv(self.path)[['name','latitude','longitude','address', 'visit_duration','subcategories','website','City']].dropna(subset=['name','latitude','longitude','address', 'visit_duration','subcategories','website','City'])
         print("Attractions loaded.")

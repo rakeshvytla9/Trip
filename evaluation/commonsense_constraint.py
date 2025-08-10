@@ -23,9 +23,9 @@ restaurants = Restaurants()
 googleDistanceMatrix = GoogleDistanceMatrix()
 attractions = Attractions()
 events = Events()
-pois = pd.read_csv('/home/soumya/ATP_database/all_poi_nearest_stops.csv')
+pois = pd.read_csv('../ATP_database/all_poi_nearest_stops.csv')
 
-city_state_set = open('/home/soumya/ATP_database/background/citySet_with_states_140.txt','r').read().split('\n')
+city_state_set = open('../ATP_database/background/citySet_with_states_140.txt','r').read().split('\n')
 city_state_map = {x:y for x,y in [unit.split('\t') for unit in city_state_set]}
 
 
