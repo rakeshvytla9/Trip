@@ -4,7 +4,7 @@ from typing import Optional
 # from utils.func import extract_before_parenthesis
 
 class Restaurants:
-    def __init__(self, path='/home/mtech/ATP_database/restaurants/cleaned_restaurant_details_2024.csv'):
+    def __init__(self, path='../ATP_database/restaurants/cleaned_restaurant_details_2024.csv'):
         self.path = path
         self.data = pd.read_csv(self.path)[['name','avg_cost','cuisines','rating','City']].dropna(subset=['name', 'avg_cost', 'cuisines', 'rating', 'City'])
         print("Restaurants loaded.")
