@@ -1,0 +1,140 @@
+San Diego	California
+Flagstaff	Arizona
+Charleston	South Carolina
+Montgomery	Alabama
+Redding	California
+Lynchburg	Virginia
+Sarasota	Florida 
+Sioux Falls	South Dakota
+Sacramento	California
+Amarillo	Texas
+Manhattan	New York
+Seattle	Washington
+Manchester	England
+Gainesville	Florida
+Waterloo	Wallonia
+Yuma	Arizona
+Albuquerque	New Mexico
+Nashville	Tennessee
+Fort Wayne	Indiana
+Green Bay	Wisconsin
+Santa Fe	New Mexico
+Belleville	Illinois
+Greensboro	North Carolina
+Erie	Pennsylvania
+Pocatello	Idaho
+Wilmington	North Carolina
+Ontario	Ontario
+Helena	Montana
+Kalamazoo	Michigan
+Cleveland	Ohio
+Melbourne	Victoria
+Bristol	Tennessee
+Fresno	California
+Jackson	Mississippi
+Corpus Christi	Texas
+Florence	Tuscany
+Grand Forks	North Dakota
+Las Vegas	Nevada
+Fairbanks	Alaska
+Petersburg	Virginia
+Wichita	Kansas
+Kansas City	Missouri
+San Luis Obispo	California
+Dayton	Ohio  
+Martha's Vineyard	Massachusetts
+Portland	Oregon
+New York	New York
+Tampa	Florida
+Houston	Texas
+Duluth	Minnesota
+Valparaiso	Indiana
+Watertown	New York
+Ogden	Utah
+Cedar Rapids	Iowa
+Missoula	Montana
+Pasco	Washington
+Newburgh	New York
+Huntsville	Alabama
+San Antonio	Texas
+Bloomington	Illinois
+Lexington	Kentucky
+Santa Barbara	California
+Baltimore	Maryland
+Yakima	Washington
+Salisbury	Maryland
+Mission	Texas
+Beaumont	Texas
+Key West	Florida
+Worcester	England
+Boise	Idaho
+Salina	Kansas
+Fort Leonard Wood	Missouri
+Everett	Washington
+Madison	Wisconsin
+Victoria	Victoria
+Sioux City	Iowa
+Anchorage	Alaska
+Charlotte	North Carolina
+Durango	Colorado
+Santa Rosa	California
+Concord	New Hampshire
+Atlanta	Georgia
+Colorado Springs	Colorado
+Washington	District of Columbia
+Tulsa	Oklahoma
+Champaign	Illinois
+Indianapolis	Indiana
+Ketchikan	Alaska
+St. Louis	Missouri
+Santa Maria	California
+Alexandria	Alexandria Governorate
+Tucson	Arizona
+San Juan	San Juan
+Dubuque	Iowa
+Burbank	California
+Gunnison	Colorado
+Raleigh	North Carolina
+Oklahoma City	Oklahoma
+Chicago	Illinois
+El Paso	Texas
+Rockford	Illinois
+Omaha	Nebraska
+Spokane	Washington
+Bend	Oregon
+Peoria	Illinois
+Eugene	Oregon
+Miami	Florida
+Dallas	Texas
+Tallahassee	Florida
+Butte	California
+Greenville	South Carolina
+Juneau	Alaska
+Boston	Massachusetts
+Knoxville	Tennessee
+Denver	Colorado
+Albany	New York
+Shreveport	Louisiana
+Asheville	North Carolina
+Milwaukee	Wisconsin
+Des Moines	Iowa
+Fort Dodge	Iowa
+Chattanooga	Tennessee
+Sitka	Alaska
+Memphis	Tennessee
+Nantucket	Massachusetts
+Birmingham	England
+Los Angeles	California
+Mason City	Iowa
+Savannah	Georgia
+Long Beach	California
+Reno	Nevada
+Akron	Ohio
+Louisville	Kentucky
+Hartford	Connecticut
+Cincinnati	Ohio
+Rochester	New York
+San Francisco	California
+Detroit	Michigan
+Monterey	California
+Eau Claire	Wisconsin
